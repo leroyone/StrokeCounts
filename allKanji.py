@@ -26,6 +26,6 @@ twentytwo = ['22','驚','襲','籠','灘','疊','穰','聽','臟','覽','讃','�
 twentythree = ['23','鑑','巖','纖','顯','驗','鱒','鷲']
 twentyfour = ['24','讓','釀','鱗','鷹','鷺','麟']
 twentyfive = ['25','廳']
-twentynine = ['26','鬱']
+twentynine = ['29','鬱']
 
 strokeNumbers = [one,two,three,four,five,six,seven,eight,nine,ten,eleven,twelve,thirteen,fourteen,fifteen,sixteen,seventeen,eighteen,nineteen,twenty,twentyone,twentytwo,twentythree,twentyfour,twentyfive,twentynine]
